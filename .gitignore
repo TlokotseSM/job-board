@@ -1,0 +1,10 @@
+# Node
+node_modules/
+.env
+
+# Vite/React
+dist/
+client/node_modules/
+
+# Logs
+npm-debug.log*
