@@ -1,5 +1,5 @@
 -- SQL schema here
-CREATE DATABASE IF NOT EXISTS job_board;
+-- CREATE DATABASE IF NOT EXISTS job_board;
 USE job_board;
 
 -- Users table
